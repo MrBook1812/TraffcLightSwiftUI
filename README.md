@@ -1,3 +1,4 @@
 # TraffcLightSwiftUI
+Первый учебный проект на SwiftUI.
 
-  <img src="https://github.com/MrBook1812/TraffcLightSwiftUI/blob/main/trafficlightSwiftUI.gif" width="200" height="400">
+<img src="https://github.com/MrBook1812/TraffcLightSwiftUI/blob/main/trafficlightSwiftUI.gif" width="200" height="400">
